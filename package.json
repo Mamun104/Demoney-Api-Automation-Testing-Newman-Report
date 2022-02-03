@@ -1,0 +1,16 @@
+{
+  "name": "Demoney_Api_Testing_Newman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "newman": "^5.3.1",
+    "newman-reporter-htmlextra": "^1.22.7"
+  }
+}
